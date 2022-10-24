@@ -4,5 +4,4 @@ This is a mini console game.
 You need to guess the word by typing one letter at a time.
 You have 6 tries if you can't guess the word you die.
 Things i use to build this console game:
-Arrays first, some methods to clean up the code, like the random word method.
-Different methods to check the answear of the person.
+Arrays, methods like the random word method,to check the answear of the person.
